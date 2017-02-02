@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the hello world app from Chapter 1 of the Rails Tutorial by Mihael Hartl at [RailsTutorial.org](https://www.railstutorial.org/book).
 
-Things you may want to cover:
 
-* Ruby version
+* Ruby version 2.3.0
 
-* System dependencies
+* Rails version 5.0.1
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Not much to see here
