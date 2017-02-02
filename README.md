@@ -1,7 +1,10 @@
-# README
+# Ruby on Rails Tutorial
 
-This is the hello world app from Chapter 1 of the Rails Tutorial by Mihael Hartl at [RailsTutorial.org](https://www.railstutorial.org/book).
+## "hello, world!"
 
+This is the first application for the
+[*Ruby on Rails Tutorial*](http://www.railstutorial.org/)
+by [Michael Hartl](http://www.michaelhartl.com/). Hello, world!
 
 * Ruby version 2.3.0
 
